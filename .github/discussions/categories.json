@@ -1,0 +1,23 @@
+[
+  {
+    "name": "General",
+    "description": "General discussions about Zektra",
+    "emoji": "💬"
+  },
+  {
+    "name": "Show & Tell",
+    "description": "Share your projects and creations",
+    "emoji": "🎨"
+  },
+  {
+    "name": "Q&A",
+    "description": "Ask questions and get answers",
+    "emoji": "❓"
+  },
+  {
+    "name": "Ideas",
+    "description": "Share ideas and suggestions",
+    "emoji": "💡"
+  }
+]
+
