@@ -11,26 +11,28 @@ This is the central hub for discussions, feature requests, bug reports, and comm
 ## 📢 How to Engage
 
 ### 💬 Discussions
+
 - **General Discussion**: Questions, ideas, and community chat
 - **Show & Tell**: Share your projects built with Zektra
 - **Q&A**: Ask technical questions and get help
 
 ### 🐛 Issues
+
 - **Bug Reports**: Found a bug? Report it here
 - **Feature Requests**: Have an idea? We want to hear it!
 - **Security Issues**: Please use [Security Advisories](https://github.com/zektra/zektra-community/security/advisories)
 
 ### 🚀 Projects
+
 - **zektra-ai-gateway**: AI services with crypto payments
 - **zektra-web**: Official website
 - More coming soon...
 
 ## 🛠️ Quick Links
 
-- **Website**: [zektra.ai](https://zektra.ai)
-- **Documentation**: Coming soon
-- **Discord**: [Join our community](https://discord.gg/zektra)
-- **Twitter**: [@zektra_ai](https://twitter.com/zektra_ai)
+- **Website**: [zektra.xyz](https://zektra.xyz)
+- **Documentation**: [gitbook]
+- **Twitter**: [@zektraxyz](https://twitter.com/zektraxyz)
 
 ## 📋 Guidelines
 
@@ -50,4 +52,3 @@ We're committed to providing a welcoming and inclusive environment. Please read 
 ---
 
 **Let's build the future of private AI together! 🔐✨**
-
